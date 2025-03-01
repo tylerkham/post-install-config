@@ -90,7 +90,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>Sev-C (Grace Period: 8 hours, Business Hours)</p>
 
 ![17](https://github.com/user-attachments/assets/89592448-1594-4fb8-ad6e-f2ff02332058)
+
 ![18](https://github.com/user-attachments/assets/383edc6c-0a37-4349-8122-fe4a697c9eb7)
+
 ![19](https://github.com/user-attachments/assets/569af357-9b21-4dab-83a6-0087d9cfb7b9)
 
 <h3>Configure Help Topics (For when users create a ticket)</h3>
@@ -102,7 +104,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>Other</p>
 
 ![20](https://github.com/user-attachments/assets/900b527d-7b5f-485b-a8c9-32186335e889)
+
 ![21](https://github.com/user-attachments/assets/9d8593e1-3c59-48f3-aeaa-7e5b8fcecac1)
+
 ![22](https://github.com/user-attachments/assets/bfade730-2388-4631-ab8f-7782a78cc0f7)
+
 ![23](https://github.com/user-attachments/assets/269ae5ec-9d03-4d0b-866e-4f60fb1ca785)
+
 ![24](https://github.com/user-attachments/assets/47c0c952-a778-4a50-ad66-9ea70ffb0536)
